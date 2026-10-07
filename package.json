@@ -1,0 +1,19 @@
+{
+	"name": "@kilyakus/js-sign",
+	"productName": "Signature",
+	"version": "1.2610.00707",
+	"description": "Is an intelligent documentation system for JavaScript modules. It streamlines the structure of documentation, parameters, and code examples directly within source files with automatic console output. \nIt provides a centralized registry for all project modules, featuring debounced rendering and interactive API visualization in the browser console.",
+	"author": "Aleksandr Kilyakov",
+	"authorUsername": "Kilyakus",
+	"license": "CC-BY-NC-4.0",
+	"licenseLegal": "Attribution-NonCommercial 4.0 International",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kilyakus/js-sign.git"
+	},
+	"build": {},
+	"publishConfig": {
+		"access": "public"
+	},
+	"main": "js/signature.obf.js"
+}
